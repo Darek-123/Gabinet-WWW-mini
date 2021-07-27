@@ -26,23 +26,23 @@ Soczewki kontaktowe:
 Godziny pracy
 Przyjęcia w ramach umowy z NFZ:
 
-poniedziałek od 800 do 1600
-wtorek od 800 do 1600
-środa od 800 do 1200 i od 1400 do 1800
-czwartek od 800 do 1600
-piątek od 800 do 1600
+poniedziałek od 8:00 do 16:00
+wtorek od 8:00 do 16:00
+środa od 8:00 do 12:00 i od 14:00 do 18:00
+czwartek od 8:00 do 16:00
+piątek od 8:00 do 16:00
 Skierowania do Poradni Okulistycznej w ramach NFZ są wymagane!
 W dniu wizyty należy mieć przy sobie ważny dokument potwierdzający uprawnienia do świadczeń w ramach ubezpieczenia.
  
 
 Przyjęcia prywatne:
 
-poniedziałki i wtorki od 1800 – przyjęcia po zapisaniu się wcześniej w rejestracji
-czwartki i piątki od 1800 – przyjęcia po zapisaniu się wcześniej w rejestracji
+poniedziałki i wtorki od 18:00 – przyjęcia po zapisaniu się wcześniej w rejestracji
+czwartki i piątki od 18:00 – przyjęcia po zapisaniu się wcześniej w rejestracji
 inne terminy po uzgodnieniu telefonicznie
 Rejestracja:
 
-czynna od poniedziałku do piątku w godzinach 800 do 1500
+czynna od poniedziałku do piątku w godzinach 8:00 do 15:00
 Warunki przyjęć
 NFZ - przyjęcia w trybie pilnym - na bieżąco, o przyjęciu decyduje lekarz.
 
@@ -50,9 +50,9 @@ Przyjęcia planowe - po ustaleniu terminu w rejestracji - osobiście, przez osob
 
 Skierowania do Poradni Okulistycznej w ramach NFZ są wymagane!
 
-Przyjęcia prywatne - w poniedziałki i wtorki od godz 1600, bez rejestracji, według kolejności zgłoszeń.
+Przyjęcia prywatne - w poniedziałki i wtorki od godz 16:00, bez rejestracji, według kolejności zgłoszeń.
 
-Przyjęcia prywatne - w czwartki i piątki od godz 1600, po wcześniejszym zapisaniu się w rejestracji na konkretną godzinę.
+Przyjęcia prywatne - w czwartki i piątki od godz 16:00, po wcześniejszym zapisaniu się w rejestracji na konkretną godzinę.
 
 LUX-MED, LIM, Falck, Pol-Assistance – aktualnie współpraca zawieszona
 
@@ -104,6 +104,6 @@ Poradnia Okulistyczna
 lek. med. Dariusz Tuleja
 PCK 8, 62-600 Koło
 tel. 63 26 16 405
-e-mail: dt-zoz@wp.pl
-Ostatnia aktualizacja: 29.11.2017
+e-mail: okulistawkole@gmail.com
+Ostatnia aktualizacja: 27.07.2021
 Copyright 2017 SZOZ Dariusz Tuleja

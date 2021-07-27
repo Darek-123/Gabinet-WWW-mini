@@ -37,12 +37,12 @@ W dniu wizyty należy mieć przy sobie ważny dokument potwierdzający uprawnien
 
 Przyjęcia prywatne:
 
-poniedziałki i wtorki od 1800 – przyjęcia na bieżąco, w kolejności zgłoszeń
+poniedziałki i wtorki od 1800 – przyjęcia po zapisaniu się wcześniej w rejestracji
 czwartki i piątki od 1800 – przyjęcia po zapisaniu się wcześniej w rejestracji
 inne terminy po uzgodnieniu telefonicznie
 Rejestracja:
 
-od poniedziałku do piątku w godzinach 800 do 1500
+czynna od poniedziałku do piątku w godzinach 800 do 1500
 Warunki przyjęć
 NFZ - przyjęcia w trybie pilnym - na bieżąco, o przyjęciu decyduje lekarz.
 

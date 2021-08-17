@@ -1,12 +1,6 @@
-# Gabinet Okulistyczny NZOZ
+# Specjalistyczny Zakład Opieki Zdrowotnej<br>Poradnia Okulistyczna<br>
 
-Specjalistyczny Zakład Opieki Zdrowotnej
-
-Poradnia Okulistyczna
-
-lek. med. Dariusz Tuleja
-
-Prywatny Gabinet Okulistyczny
+## lek. med. Dariusz Tuleja<br>Prywatny Gabinet Okulistyczny
 
 ---
 
@@ -14,7 +8,7 @@ Prywatny Gabinet Okulistyczny
 
 Diagnostyka, leczenie i profilaktyka chorób oczu.
 
-Między innymi
+Między innymi:
 
 - Komputerowe badanie wzroku
 - Pomiar ciśnienia wewnątrzgałkowego
@@ -49,7 +43,6 @@ Między innymi
 **Skierowania do Poradni Okulistycznej w ramach NFZ są wymagane!**
 
 W dniu wizyty należy mieć przy sobie ważny dokument potwierdzający uprawnienia do świadczeń w ramach ubezpieczenia.
- 
 
 ### Przyjęcia prywatne
 
@@ -70,28 +63,28 @@ Inne terminy po uzgodnieniu telefonicznie.
 
 - czynna od poniedziałku do piątku w godzinach 8:00 do 15:00
 
-## Warunki przyjęć
+## Warunki przyjęć w ramach NFZ
 
-- NFZ - przyjęcia w trybie pilnym - na bieżąco, o przyjęciu decyduje lekarz.
+- przyjęcia w trybie pilnym - na bieżąco, o przyjęciu decyduje lekarz.
+- Przyjęcia planowe - po ustaleniu terminu w rejestracji 
+  - osobiście, przez osoby drugie, telefonicznie 
+  - tel. 63 26 16 405
 
-- Przyjęcia planowe - po ustaleniu terminu w rejestracji - osobiście, przez osoby drugie, telefonicznie - nr 63 26 16 405
+### Ważne informacje
 
-**Skierowania do Poradni Okulistycznej w ramach NFZ są wymagane!**
+- **Skierowania do Poradni Okulistycznej w ramach NFZ są wymagane.**
+- W dniu wizyty należy mieć przy sobie ważny dokument potwierdzający uprawnienia do świadczeń w ramach ubezpieczenia.
 
-- Przyjęcia prywatne - w poniedziałki i wtorki od godz 16:00, bez rejestracji, według kolejności zgłoszeń.
+## Przyjęcia prywatne
 
-- Przyjęcia prywatne - w czwartki i piątki od godz 16:00, po wcześniejszym zapisaniu się w rejestracji na konkretną godzinę.
+- w poniedziałki i wtorki od godz 16:00, bez rejestracji, według kolejności zgłoszeń.
+- w czwartki i piątki od godz 16:00, po wcześniejszym zapisaniu się w rejestracji na konkretną godzinę.
 
-- LUX-MED, LIM, Falck, Pol-Assistance – aktualnie współpraca zawieszona
+### Ważne informacje
 
 - Badania grupowe i dla instytucji - po uzgodnieniu telefonicznie.
-
 - Badania kierowców i inne specjalistyczne - tak jak przyjęcia prywatne.
-
-Ważne informacje
-Skierowania do Poradni Okulistycznej w ramach NFZ są wymagane.
-W dniu wizyty należy mieć przy sobie ważny dokument potwierdzający uprawnienia do świadczeń w ramach ubezpieczenia.
-LUX-MED, LIM, Falck, Pol-Assistance – aktualnie współpraca zawieszona
+- LUX-MED, LIM, Falck, Pol-Assistance – aktualnie współpraca zawieszona
 
 ## Udział w organizacjach
 
@@ -136,23 +129,23 @@ Między innymi:
 
 ## Kontakt
 
-```
-Specjalistyczny ZOZ
-Poradnia Okulistyczna
-lek. med. Dariusz Tuleja
-PCK 8, 62-600 Koło
-tel. 63 26 16 405
-e-mail: okulistawkole@gmail.com
-```
+Specjalistyczny ZOZ<br>
+Poradnia Okulistyczna<br>
+lek. med. Dariusz Tuleja<br>
+
+PCK 8, 62-600 Koło<br>
+tel. 63 26 16 405<br>
+
+okulistawkole@gmail.com
 
 ---
 
-```
-Specjalistyczny Zakład Opieki Zdrowotnej
-Poradnia Okulistyczna
-lek. med. Dariusz Tuleja
-Prywatny Gabinet Okulistyczny
-```
+Specjalistyczny Zakład Opieki Zdrowotnej<br>
+Poradnia Okulistyczna<br>
+lek. med. Dariusz Tuleja<br>
+Prywatny Gabinet Okulistyczny<br>
 
-Ostatnia aktualizacja: 13.08.2021
+---
+
+Ostatnia aktualizacja: 13.08.2021<br>
 Copyright 2017 SZOZ Dariusz Tuleja
